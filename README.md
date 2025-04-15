@@ -16,7 +16,6 @@ This project demonstrated strong performance during the initial two phases, succ
         *   Reference Link: [https://github.com/NZMSA/2024-Phase-1](https://github.com/NZMSA/2024-Phase-1) 
     *   **Phase 2: Skill Deepening & Project Practice**
         *   Learning Azure SQL database management basics.
-        *   Completed specific data science tasks, including:
         *   Analysis and Preprocessing
         *   Training and Evaluation
         *   Deep Learning: Training an image classification model using the CIFAR-10 dataset
